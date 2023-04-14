@@ -1,2 +1,2 @@
 # CS61B
-learning jave through cs61B
+learning java through cs61B
